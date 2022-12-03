@@ -49,6 +49,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
     width: 100%;
     height: 100%;
 }
@@ -105,6 +106,8 @@ body {
 .technology-wrapper {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
+
 
 }
 
@@ -151,6 +154,7 @@ body {
 .work-wrapper {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
 }
 
@@ -209,6 +213,7 @@ body {
 .say-wrapper {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 
